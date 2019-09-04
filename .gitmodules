@@ -1,0 +1,3 @@
+[submodule "docs/oss-pages-module"]
+	path = docs/oss-pages-module
+	url = https://github.com/bruceskingle/oss-pages-module.git
